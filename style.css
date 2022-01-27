@@ -1,0 +1,35 @@
+.header_div{
+    background:white;
+    color:royalblue;
+}
+body{
+    background: powderblue;
+    font-family: 'Lobster', cursive;
+}
+.copy_right_footer{
+    text-align: center;
+    position: fixed;
+    line-height: 3;
+    font-size:18px;
+    bottom:0;
+    width:100%;
+    color: rebeccapurple;
+    background-color: peachpuff;
+}
+.header_div p{
+    font-size: 15px;
+    font-weight:bold;
+    letter-spacing:2px;
+    color: purple;
+}
+.main_div button{
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    font-size:15px;
+    letter-spacing:4px;
+}
+.main_div img{
+    margin-left:10px;
+    margin-right:10px;
+}
